@@ -2,7 +2,7 @@
 // @name GeoFS Keyboard Autopilot
 // @description the extension enables the GeoFS built-in autopilot ot be controlled by the keyboard.
 // @namespace https://github.com/Guy-Adler/KeyboardAutopilot
-// @version 1.0.0
+// @version 0.1.0
 // @author Guy Adler
 // @match https://www.geo-fs.com/geofs.php
 // @run-at document-end
